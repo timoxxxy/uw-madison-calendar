@@ -1,273 +1,282 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Timoxxxy//UW-Madison Academic Milestones 2026-2030//EN
+PRODID:-//timoxxxy//UW-Madison Academic Calendar 2026-2030//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:UW-Madison Academic Calendar 2026-2030
-X-WR-CALDESC:Semester start, final exam LAST day, Thanksgiving and spring recess. UW-Madison Office of the Secretary of the Faculty.
+X-WR-CALDESC:Semester starts, final exam last days, spring and Thanksg
+ iving recess. Official dates from secfac.wisc.edu.
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-UID:uwmadison-2026-fall-start@timoxxxy.github.io
+UID:uw-madison-fall-2026-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:UW–Madison Fall 2026 — Semester Begins
-DESCRIPTION:First day of fall semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2026 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2026-fall-thanksgiving@timoxxxy.github.io
+UID:uw-madison-fall-2026-thanksgiving@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
-SUMMARY:UW–Madison Fall 2026 — Thanksgiving Recess
-DESCRIPTION:UW-Madison official Thanksgiving recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2026 - Thanksgiving Recess
+DESCRIPTION:Official Thanksgiving recess (full date range)\nSource: ht
+ tps://secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2026-fall-exam-end@timoxxxy.github.io
+UID:uw-madison-fall-2026-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:UW–Madison Fall 2026 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide fall final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2026 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2027-spring-start@timoxxxy.github.io
+UID:uw-madison-spring-2027-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:UW–Madison Spring 2027 — Semester Begins
-DESCRIPTION:First day of spring semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2027 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2027-spring-spring-recess@timoxxxy.github.io
+UID:uw-madison-spring-2027-recess@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270329
-SUMMARY:UW–Madison Spring 2027 — Spring Recess
-DESCRIPTION:UW-Madison official Spring Recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2027 - Spring Recess
+DESCRIPTION:Official Spring Recess (full date range)\nSource: https://
+ secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2027-spring-exam-end@timoxxxy.github.io
+UID:uw-madison-spring-2027-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:UW–Madison Spring 2027 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide spring final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2027 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2027-fall-start@timoxxxy.github.io
+UID:uw-madison-fall-2027-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
-SUMMARY:UW–Madison Fall 2027 — Semester Begins
-DESCRIPTION:First day of fall semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2027 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2027-fall-thanksgiving@timoxxxy.github.io
+UID:uw-madison-fall-2027-thanksgiving@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271129
-SUMMARY:UW–Madison Fall 2027 — Thanksgiving Recess
-DESCRIPTION:UW-Madison official Thanksgiving recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2027 - Thanksgiving Recess
+DESCRIPTION:Official Thanksgiving recess (full date range)\nSource: ht
+ tps://secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2027-fall-exam-end@timoxxxy.github.io
+UID:uw-madison-fall-2027-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20271217
 DTEND;VALUE=DATE:20271218
-SUMMARY:UW–Madison Fall 2027 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide fall final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2027 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2028-spring-start@timoxxxy.github.io
+UID:uw-madison-spring-2028-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20280125
 DTEND;VALUE=DATE:20280126
-SUMMARY:UW–Madison Spring 2028 — Semester Begins
-DESCRIPTION:First day of spring semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2028 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2028-spring-spring-recess@timoxxxy.github.io
+UID:uw-madison-spring-2028-recess@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20280325
 DTEND;VALUE=DATE:20280403
-SUMMARY:UW–Madison Spring 2028 — Spring Recess
-DESCRIPTION:UW-Madison official Spring Recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2028 - Spring Recess
+DESCRIPTION:Official Spring Recess (full date range)\nSource: https://
+ secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2028-spring-exam-end@timoxxxy.github.io
+UID:uw-madison-spring-2028-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20280512
 DTEND;VALUE=DATE:20280513
-SUMMARY:UW–Madison Spring 2028 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide spring final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2028 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2028-fall-start@timoxxxy.github.io
+UID:uw-madison-fall-2028-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20280906
 DTEND;VALUE=DATE:20280907
-SUMMARY:UW–Madison Fall 2028 — Semester Begins
-DESCRIPTION:First day of fall semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2028 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2028-fall-thanksgiving@timoxxxy.github.io
+UID:uw-madison-fall-2028-thanksgiving@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20281123
 DTEND;VALUE=DATE:20281127
-SUMMARY:UW–Madison Fall 2028 — Thanksgiving Recess
-DESCRIPTION:UW-Madison official Thanksgiving recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2028 - Thanksgiving Recess
+DESCRIPTION:Official Thanksgiving recess (full date range)\nSource: ht
+ tps://secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2028-fall-exam-end@timoxxxy.github.io
+UID:uw-madison-fall-2028-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20281221
 DTEND;VALUE=DATE:20281222
-SUMMARY:UW–Madison Fall 2028 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide fall final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2028 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2029-spring-start@timoxxxy.github.io
+UID:uw-madison-spring-2029-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20290123
 DTEND;VALUE=DATE:20290124
-SUMMARY:UW–Madison Spring 2029 — Semester Begins
-DESCRIPTION:First day of spring semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2029 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2029-spring-spring-recess@timoxxxy.github.io
+UID:uw-madison-spring-2029-recess@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20290324
 DTEND;VALUE=DATE:20290402
-SUMMARY:UW–Madison Spring 2029 — Spring Recess
-DESCRIPTION:UW-Madison official Spring Recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2029 - Spring Recess
+DESCRIPTION:Official Spring Recess (full date range)\nSource: https://
+ secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2029-spring-exam-end@timoxxxy.github.io
+UID:uw-madison-spring-2029-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20290511
 DTEND;VALUE=DATE:20290512
-SUMMARY:UW–Madison Spring 2029 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide spring final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2029 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2029-fall-start@timoxxxy.github.io
+UID:uw-madison-fall-2029-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20290905
 DTEND;VALUE=DATE:20290906
-SUMMARY:UW–Madison Fall 2029 — Semester Begins
-DESCRIPTION:First day of fall semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2029 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2029-fall-thanksgiving@timoxxxy.github.io
+UID:uw-madison-fall-2029-thanksgiving@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20291122
 DTEND;VALUE=DATE:20291126
-SUMMARY:UW–Madison Fall 2029 — Thanksgiving Recess
-DESCRIPTION:UW-Madison official Thanksgiving recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2029 - Thanksgiving Recess
+DESCRIPTION:Official Thanksgiving recess (full date range)\nSource: ht
+ tps://secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2029-fall-exam-end@timoxxxy.github.io
+UID:uw-madison-fall-2029-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20291220
 DTEND;VALUE=DATE:20291221
-SUMMARY:UW–Madison Fall 2029 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide fall final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Fall 2029 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2030-spring-start@timoxxxy.github.io
+UID:uw-madison-spring-2030-start@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20300122
 DTEND;VALUE=DATE:20300123
-SUMMARY:UW–Madison Spring 2030 — Semester Begins
-DESCRIPTION:First day of spring semester instruction. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2030 - Semester Begins
+DESCRIPTION:Official first day of instruction\nSource: https://secfac.
+ wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2030-spring-spring-recess@timoxxxy.github.io
+UID:uw-madison-spring-2030-recess@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20300323
 DTEND;VALUE=DATE:20300401
-SUMMARY:UW–Madison Spring 2030 — Spring Recess
-DESCRIPTION:UW-Madison official Spring Recess (inclusive dates). Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2030 - Spring Recess
+DESCRIPTION:Official Spring Recess (full date range)\nSource: https://
+ secfac.wisc.edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uwmadison-2030-spring-exam-end@timoxxxy.github.io
+UID:uw-madison-spring-2030-exams@timoxxxy.github.io
 DTSTAMP:20261110T160000Z
 DTSTART;VALUE=DATE:20300510
 DTEND;VALUE=DATE:20300511
-SUMMARY:UW–Madison Spring 2030 — Final Exams — Last Day
-DESCRIPTION:Last day of university-wide spring final examinations; individual exam dates may differ. Source: https://secfac.wisc.edu/academic-calendar/
-CATEGORIES:UW-Madison,Academic Calendar
-TRANSP:TRANSPARENT
+SUMMARY:UW-Madison Spring 2030 - Final Exams - Last Day
+DESCRIPTION:Official last day of university-wide final examinations. I
+ ndividual class exam schedules may vary.\nSource: https://secfac.wisc
+ .edu/academic-calendar/
 STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
