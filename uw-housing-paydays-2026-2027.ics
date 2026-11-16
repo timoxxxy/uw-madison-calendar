@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//timoxxxy//UW Housing Student Employee Paydays 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UW Housing Paydays 2026-2027
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:uw-housing-payday-20260820@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 17; worked 2026-07-26 to 2026-08
+ -08. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20260903@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 18; worked 2026-08-09 to 2026-08
+ -22. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20260917@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 19; worked 2026-08-23 to 2026-09
+ -05. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20261001@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 20; worked 2026-09-06 to 2026-09
+ -19. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20261015@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 21; worked 2026-09-20 to 2026-10
+ -03. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20261029@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 22; worked 2026-10-04 to 2026-10
+ -17. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20261112@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 23; worked 2026-10-18 to 2026-10
+ -31. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20261125@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 24; worked 2026-11-01 to 2026-11
+ -14. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20261210@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 25; worked 2026-11-15 to 2026-11
+ -28. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20261224@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 26; worked 2026-11-29 to 2026-12
+ -12. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270107@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 1; worked 2026-12-13 to 2026-12-
+ 26. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270121@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 2; worked 2026-12-27 to 2027-01-
+ 09. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270204@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 3; worked 2027-01-10 to 2027-01-
+ 23. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270218@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 4; worked 2027-01-24 to 2027-02-
+ 06. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270304@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 5; worked 2027-02-07 to 2027-02-
+ 20. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270318@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 6; worked 2027-02-21 to 2027-03-
+ 06. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270401@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 7; worked 2027-03-07 to 2027-03-
+ 20. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270415@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 8; worked 2027-03-21 to 2027-04-
+ 03. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270429@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 9; worked 2027-04-04 to 2027-04-
+ 17. Official schedule: https://www.housing.wisc.edu/wp-content/uploads/
+ sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270513@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 10; worked 2027-04-18 to 2027-05
+ -01. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270527@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 11; worked 2027-05-02 to 2027-05
+ -15. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270610@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 12; worked 2027-05-16 to 2027-05
+ -29. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270624@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 13; worked 2027-05-30 to 2027-06
+ -12. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270708@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 14; worked 2027-06-13 to 2027-06
+ -26. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270722@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 15; worked 2027-06-27 to 2027-07
+ -10. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270805@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 16; worked 2027-07-11 to 2027-07
+ -24. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270819@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 17; worked 2027-07-25 to 2027-08
+ -07. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uw-housing-payday-20270902@timoxxxy.github.io
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:UW Housing Payday
+DESCRIPTION:Student Employee Pay Period 18; worked 2027-08-08 to 2027-08
+ -21. Official schedule: https://www.housing.wisc.edu/wp-content/uploads
+ /sites/168/2026/08/Pay-Schedule.pdf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
